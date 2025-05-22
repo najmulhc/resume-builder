@@ -1,0 +1,28 @@
+[
+  {
+    "institution": "University of Dhaka",
+    "degree": "Bachelor of Business Administration",
+    "major": "Management Information Systems",
+    "start_year": 2025,
+    "end_year": 2025,
+    "status": "Expected October 2025",
+    "location": "Dhaka, Bangladesh",
+    "details": [
+      "Focus on Software Engineering, Data Structures, Database Management, and Web Development.",
+      "Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming (Java, C++), Database Systems.",
+      "Participated in coding clubs and tech seminars to improve programming skills."
+    ],
+    "achievements": [
+      "Maintained a consistent focus on skill-building despite a challenging GPA.",
+      "Led a team project for academic management system development."
+    ],
+    "keywords": [
+      "MIS",
+      "Software Engineering",
+      "Data Structures",
+      "OOP",
+      "Database Management"
+    ],
+    "gpa": null
+  }
+]

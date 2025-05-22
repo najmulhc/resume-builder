@@ -1,0 +1,25 @@
+{
+  "companyName": "AMK Technology",
+  "companyWebsite": "pso.amktechnology.com",
+  "roleTitle": "Fullstack Developer",
+  "workLocation": "Remote",
+  "workMode": "Remote",
+  "salaryRange": "",
+  "officeHours": "",
+  "requiredExperience": "5+ Years",
+  "responsibilities": [],
+  "requirements": [
+    "5+ years of end-to-end development experience (frontend, backend & database)",
+    "Strong in .NET Core 6/8, Angular 16/18",
+    "Expertise in SQL Server & PostgreSQL",
+    "Familiar with SignalR, Docker, and Containers",
+    "Experience with Azure Cloud (App Services, Key Vault, Storage, Container Apps, Registry)",
+    "Proficient in Azure DevOps, CI/CD pipelines",
+    "Exposure to SonarCloud, Unit testing, App security remediation"
+  ],
+  "bonusPoints": [],
+  "perksAndBenefits": [
+    "Work Remotely from anywhere",
+    "Collaborative, tech-driven culture"
+  ]
+}

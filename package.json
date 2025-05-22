@@ -1,0 +1,20 @@
+{
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "description": "This is a AI powered resume builder that will generate pdf resumes based on given context(projects, skills, education) and given Job Description",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "AI",
+    "resume-builder"
+  ],
+  "author": "Najmul Huda Chowdhury Chayan",
+  "license": "MIT",
+  "dependencies": {
+    "@huggingface/inference": "^3.13.2",
+    "dotenv": "^16.5.0"
+  }
+}

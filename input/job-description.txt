@@ -1,0 +1,20 @@
+🚀 We're Hiring: Fullstack Developer (Remote) 🌍
+💻 Working Mode: Remote
+📅 Experience: 5+ Years
+🛠️ Tech Stack: .NET Core, Angular, C#, SQL Server, PostgreSQL, Docker, Azure, CI/CD
+Are you a seasoned Fullstack Developer looking for your next challenge? Join our remote-first team to build scalable, secure, and high-performance applications using modern technologies.
+
+🚨𝗥𝗼𝗹𝗲 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
+🔹5+ years of end-to-end development experience (frontend, backend & database)
+🔹Strong in .NET Core 6/8, Angular 16/18
+🔹Expertise in SQL Server & PostgreSQL
+🔹Familiar with SignalR, Docker, and Containers
+🔹Experience with Azure Cloud (App Services, Key Vault, Storage, Container Apps, Registry)
+🔹Proficient in Azure DevOps, CI/CD pipelines
+🔹Exposure to SonarCloud, Unit testing, App security remediation
+
+Work Remotely from anywhere while being part of a collaborative, tech-driven culture! If you have the expertise and are ready for your next challenge, apply now! 🚀
+📩 Send your CV to rahman@pso.amktechnology.com
+🔗 Know someone who fits the bill? Feel free to refer! Share this post.
+
+hashtag#Hiring hashtag#RemoteJobs hashtag#FullstackDeveloper hashtag#DotNetDeveloper hashtag#AngularJobs hashtag#AzureDeveloper hashtag#DevOps hashtag#PostgreSQL hashtag#Docker hashtag#SoftwareEngineer hashtag#TechJobs hashtag#WorkFromHome hashtag#FullstackJobs hashtag#RemoteDeveloperJobs

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Programming with JavaScript",
+    "issuer": "Meta",
+    "issue_date": "2023-04",
+    "credential_id": "JS-12345678",
+    "credential_url": "https://www.yourcertprovider.com/certificates/JS-12345678",
+    "description": "Completed comprehensive training on JavaScript fundamentals, ES6+, asynchronous programming, and practical application development."
+  },
+  {
+    "title": "Testing, Functional Programming and +2 skills",
+    "issuer": "Meta",
+    "issue_date": "2023-04",
+    "credential_id": "TFP-98765432",
+    "credential_url": "https://www.yourcertprovider.com/certificates/TFP-98765432",
+    "description": "Mastered testing methodologies, functional programming concepts, and additional programming skills vital for clean, efficient code."
+  }
+]

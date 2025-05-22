@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nest.js",
+    "category": "Backend Framework",
+    "description": "A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.",
+    "keywords": ["TypeScript", "Dependency Injection", "Modular Architecture"],
+    "proficiency": "intermediate",
+    "projects_used_in": ["Amar Para", "Unitracks"]
+  },
+  {
+    "name": "Node.js",
+    "category": "Backend Runtime",
+    "description": "JavaScript runtime built on Chrome's V8 engine, enabling server-side scripting and full-stack development.",
+    "keywords": ["Event-driven", "Non-blocking I/O", "npm ecosystem"],
+    "proficiency": "advanced",
+    "projects_used_in": ["Amar Para", "Unitracks"]
+  },
+  {
+    "name": "JWT",
+    "category": "Authentication Tool",
+    "description": "JSON Web Tokens used for securely transmitting information between parties as a JSON object.",
+    "keywords": ["Authentication", "Authorization", "Token-based security"],
+    "proficiency": "intermediate",
+    "projects_used_in": ["Amar Para"]
+  }
+]

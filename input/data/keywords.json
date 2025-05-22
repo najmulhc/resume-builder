@@ -1,0 +1,33 @@
+{
+  "technologies": [
+    ".NET Core",
+    "Angular",
+    "C#",
+    "SQL Server",
+    "PostgreSQL",
+    "Docker",
+    "SignalR"
+  ],
+  "tools": [
+    "Azure DevOps",
+    "SonarCloud"
+  ],
+  "skills": [
+    "End-to-end development",
+    "CI/CD pipelines",
+    "Unit testing",
+    "App security remediation"
+  ],
+  "soft_skills": [
+    "Collaboration"
+  ],
+  "cloud_providers": [
+    "Azure"
+  ],
+  "bonus_keywords": [
+    "Fullstack development",
+    "Scalable applications",
+    "Secure applications",
+    "High-performance applications"
+  ]
+}

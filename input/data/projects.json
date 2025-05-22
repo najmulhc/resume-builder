@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Amar Para",
+    "type": "Community App",
+    "description": "A platform that connects and engages local communities with real-time updates and social features.",
+    "tech_stack": [
+      "Next.js",
+      "Nest.js",
+      "PostgreSQL",
+      "Google Sign-In",
+      "Tailwind CSS"
+    ],
+    "duration": {
+      "start": "Apr 2025",
+      "end": "Present"
+    },
+    "role": "Full-Stack Developer",
+    "responsibilities": [
+      "Designed and implemented scalable backend APIs with Nest.js.",
+      "Developed a responsive and interactive frontend using Next.js and Tailwind CSS.",
+      "Integrated Google OAuth for seamless user authentication.",
+      "Implemented real-time notifications and event-driven updates.",
+      "Collaborated in Agile sprints, conducting code reviews and testing."
+    ],
+    "achievements": [
+      "Onboarded 500+ active users in the first 3 months.",
+      "Reduced API response times by 30% through query optimization.",
+      "Achieved 99.9% uptime using cloud deployment and monitoring tools."
+    ],
+    "keywords": [
+      "community",
+      "real-time",
+      "authentication",
+      "scalable APIs",
+      "Agile"
+    ],
+    "link": "https://github.com/najmulhc/amar-para",
+    "related_skills": [
+      "Next.js",
+      "Nest.js",
+      "PostgreSQL",
+      "OAuth",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "name": "Unitracks",
+    "type": "Academic Management System",
+    "description": "A full-stack university management platform that streamlines course, student, and faculty management.",
+    "tech_stack": [
+      "TypeScript",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Express.js"
+    ],
+    "duration": {
+      "start": "Dec 2023",
+      "end": "Present"
+    },
+    "role": "Lead Frontend Developer",
+    "responsibilities": [
+      "Designed modular React components for the dynamic UI.",
+      "Integrated backend APIs with Redux for efficient state management.",
+      "Implemented responsive design for mobile and desktop users.",
+      "Collaborated with backend team to design RESTful endpoints.",
+      "Maintained code quality via unit testing and CI/CD pipelines."
+    ],
+    "achievements": [
+      "Reduced page load time by 25% through code splitting and lazy loading.",
+      "Helped onboard 1000+ students and faculty within the first semester.",
+      "Improved user satisfaction scores by 20% after UI redesign."
+    ],
+    "keywords": [
+      "university",
+      "management",
+      "full-stack",
+      "responsive",
+      "API integration"
+    ],
+    "link": "https://najmulhc.vercel.app/project/65cd62557654d8ac68b84c61",
+    "related_skills": ["TypeScript", "React.js", "Node.js", "MongoDB", "Redux"]
+  }
+]
